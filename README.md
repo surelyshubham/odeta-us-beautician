@@ -1,4 +1,6 @@
-# Glow by Odeta
+# odeta-us-beautician
+
+## Glow by Odeta
 
 Responsive skincare studio homepage built with React, TypeScript, Vite, and Tailwind CSS.
 
